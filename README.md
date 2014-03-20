@@ -8,7 +8,7 @@ One great thing about Bumblebee is that it does not replace the string in your o
 
 Another great feature of Bumblebee is that it allows you to filter the files by providing a simple filtering function with the name of the file as an input (plus any other globals you wish to define) that you can fill in with any logical condition.
 
-Finally, Bumblebee is really (I mean, really) simple, so you can understand ir easily and make any change you want to suit your replacement requirements.
+Finally, Bumblebee is really (I mean, really) simple, so you can understand ir easily and make any change you want to suit your needs.
 
 I hope you find *him* usefull!
 
